@@ -1,0 +1,1 @@
+Project industry of a commit
