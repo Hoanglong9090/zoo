@@ -1,0 +1,3 @@
+function Lion() {
+	this.stomach=[];
+}
